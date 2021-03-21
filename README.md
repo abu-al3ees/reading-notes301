@@ -2,7 +2,9 @@
 ### this is reading notes for class301
 
 ## Code 102 - Intro to Software Development
++ [code102](https://abu-al3ees.github.io/reading-notes/)
 ## Code 201 - Foundations of Software Development
++ [code201](https://abu-al3ees.github.io/reading-notes201/)
 ## Code 301 - Intermediate Software Development
 ## Code 401 - Advanced Software Development
 

@@ -14,8 +14,8 @@
 page | links
 ---- | -----
 1 read01| [read01](https://abu-al3ees.github.io/reading-notes301/read01)
-2  read02| [read02](https://abu-al3ees.github.io/reading-notes301/read02)
-3 | 
+2 read02| [read02](https://abu-al3ees.github.io/reading-notes301/read02)
+3 read03| [read03](https://abu-al3ees.github.io/reading-notes301/read03)
 4 |
 5 | 
 6 | 

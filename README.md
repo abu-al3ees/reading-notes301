@@ -18,8 +18,7 @@ page | links
 3 read03| [read03](https://abu-al3ees.github.io/reading-notes301/read03)
 4 read04| [read04](https://abu-al3ees.github.io/reading-notes301/read04)
 5 read05| [read05](https://abu-al3ees.github.io/reading-notes301/read05)
-5 
-6 | 
+6 read06| [read06](https://abu-al3ees.github.io/reading-notes301/read06)
 7 | 
 8 | 
 9 | 

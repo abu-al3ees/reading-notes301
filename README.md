@@ -20,7 +20,7 @@ page | links
 5 read05| [read05](https://abu-al3ees.github.io/reading-notes301/read05)
 6 read06| [read06](https://abu-al3ees.github.io/reading-notes301/read06)
 7 read07| [read07](https://abu-al3ees.github.io/reading-notes301/read07)
-8 | 
+8 read08| [read08](https://abu-al3ees.github.io/reading-notes301/read08) 
 9 | 
 10| 
 11 | 
